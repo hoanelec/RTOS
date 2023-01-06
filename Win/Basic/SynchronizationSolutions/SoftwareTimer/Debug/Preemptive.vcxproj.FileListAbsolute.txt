@@ -1,0 +1,4 @@
+E:\8_RTOS\Win\Basic\Preemptive\Debug\Preemptive.exe
+E:\8_RTOS\Win\Basic\Preemptive\Debug\Preemptive.pdb
+E:\8_RTOS\Win\Basic\Non_Preemptive\Debug\Non_Preemptive.exe
+E:\8_RTOS\Win\Basic\Non_Preemptive\Debug\Non_Preemptive.pdb

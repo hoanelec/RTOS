@@ -1,0 +1,4 @@
+E:\8_RTOS\Win\Basic\RoundRobin\x64\Debug\RoundRobin.exe
+E:\8_RTOS\Win\Basic\RoundRobin\x64\Debug\RoundRobin.pdb
+E:\8_RTOS\Win\Basic\SynchronizationSolutions\BusyWaiting\Lock\x64\Debug\Lock.exe
+E:\8_RTOS\Win\Basic\SynchronizationSolutions\BusyWaiting\Lock\x64\Debug\Lock.pdb

@@ -1,0 +1,6 @@
+E:\8_RTOS\Win\Basic\RoundRobin\x64\Debug\RoundRobin.exe
+E:\8_RTOS\Win\Basic\RoundRobin\x64\Debug\RoundRobin.pdb
+E:\8_RTOS\Win\Basic\SynchronizationSolutions\BinarySemaphore\x64\Debug\BinarySemaphore.exe
+E:\8_RTOS\Win\Basic\SynchronizationSolutions\BinarySemaphore\x64\Debug\BinarySemaphore.pdb
+E:\8_RTOS\Win\Basic\SynchronizationSolutions\CountingSemaphore\x64\Debug\CountingSemaphore.exe
+E:\8_RTOS\Win\Basic\SynchronizationSolutions\CountingSemaphore\x64\Debug\CountingSemaphore.pdb

@@ -1,0 +1,4 @@
+﻿  main.c
+E:\8_RTOS\Win\Basic\Preemptive\main.c(17,20): warning C4028: formal parameter 1 different from declaration
+E:\8_RTOS\Win\Basic\Preemptive\main.c(18,20): warning C4028: formal parameter 1 different from declaration
+  Preemptive.vcxproj -> E:\8_RTOS\Win\Basic\Preemptive\Debug\Preemptive.exe
